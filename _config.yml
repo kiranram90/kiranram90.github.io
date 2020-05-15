@@ -1,11 +1,11 @@
 # Site settings
-author: kiran ram
-title: 
+author: Kiran Ram
+title: Why did you decide to learn software development?
 header-img: img/home-bg.png
 email: kram@lions.molloy.edu
-copyright_name: kiran ram
+copyright_name: Kiran Ram
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Short Story
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kiranram90
